@@ -2,6 +2,9 @@
 
 Main Website: http://www.brendangregg.com/flamegraphs.html
 
+火焰图案例分析参考极客时间：https://time.geekbang.org/column/article/86330
+
+
 Example (click to zoom):
 
 [![Example](http://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg)](http://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg)
